@@ -58,6 +58,7 @@ projects[soundmanager2][subdir] = "contrib"
 projects[galleria][subdir] = "contrib"
 projects[jcarousel][subdir] = "contrib"
 
+projects[views][subdir] = "contrib"
 
 ;; THEMES ;;
 
