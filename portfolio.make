@@ -99,7 +99,7 @@ libraries[soundmanager2][destination] = libraries
 
 ;; CUSTOM ;;
 
-project[dsc][type] = "module"
-project[dsc][download][type] = "git" 
-project[dsc][download][url] = "git://github.com/thegreat/Drupal-SoundCloud.git"
-project[dsc][subdir] = "custom"
+projects[dsc][type] = "module"
+projects[dsc][download][type] = "git" 
+projects[dsc][download][url] = "git://github.com/thegreat/Drupal-SoundCloud.git"
+projects[dsc][subdir] = "custom"
